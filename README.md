@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @proshawkat
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning ethical hacking
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on html, css, javascript, php, codeigniter, laravel, django
 - 📫 How to reach me via shawkatali527@gmail.com
 
 <!---
