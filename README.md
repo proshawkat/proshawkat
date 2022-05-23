@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me shawkatali527@gmail.com
+- 📫 How to reach me via shawkatali527@gmail.com
 
 <!---
 proshawkat/proshawkat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
